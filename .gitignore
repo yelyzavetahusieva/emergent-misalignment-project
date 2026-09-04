@@ -1,0 +1,10 @@
+artifacts/*
+!artifacts/final_*
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+papers/
+.claude/
+.DS_Store

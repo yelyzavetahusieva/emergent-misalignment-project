@@ -1,0 +1,9 @@
+organism,condition,n,pre_misalign_mean,post_misalign_mean,delta_mean,delta_ci_lo,delta_ci_hi,n_relevant,delta_relevant,n_irrelevant,delta_irrelevant,corr_r,corr_p
+A,cross_mm,30,89.6,84.1,5.5,1.8,8.9,0,,30,5.5,0.27,0.148
+A,within_mm,30,89.6,81.8,7.8,3.4,12.0,0,,30,7.8,0.5,0.004
+A,cross_text,30,67.8,53.8,14.0,3.7,24.4,19,16.8,11,9.2,0.52,0.003
+A,within_text,30,67.8,53.2,14.6,4.3,24.6,14,27.2,16,3.5,0.78,0.0
+B,cross_mm,30,58.6,65.6,-6.9,-18.5,3.6,9,-3.2,21,-8.5,0.67,0.0
+B,within_mm,30,58.6,65.2,-6.6,-16.8,3.2,5,15.8,25,-11.0,0.67,0.0
+B,cross_text,30,54.7,64.1,-9.4,-18.3,-0.9,8,-3.0,22,-11.7,0.25,0.188
+B,within_text,30,54.7,63.7,-9.1,-19.2,1.5,10,2.9,20,-15.0,0.27,0.156

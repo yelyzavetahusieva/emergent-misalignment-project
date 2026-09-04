@@ -1,0 +1,14 @@
+unsloth
+peft
+transformers
+trl
+datasets
+huggingface_hub
+accelerate
+bitsandbytes
+torch
+pillow
+numpy
+pyyaml
+anthropic
+tqdm
